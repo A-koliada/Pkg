@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "08c234e4-c6b4-40a0-b842-6a5a3a7855ec",
+    "Name": "UsrRealty",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrRealty.csproj",
+    "DependsOn": []
+  }
+}
