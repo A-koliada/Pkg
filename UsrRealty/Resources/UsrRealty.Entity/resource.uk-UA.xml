@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty" />
+			<Item Name="Columns.UsrArea.Caption" Value="Площа, м2" />
+			<Item Name="Columns.UsrName.Caption" Value="Назва" />
+			<Item Name="Columns.UsrPriceUSD.Caption" Value="Ціна, USD" />
+			<Item Name="Columns.UsrType.Caption" Value="Тип нерухомості" />
+		</Items>
+	</Group>
+</Resources>

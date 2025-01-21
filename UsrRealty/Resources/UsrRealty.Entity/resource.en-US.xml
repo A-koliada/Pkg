@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty" />
+			<Item Name="Columns.UsrArea.Caption" Value="Area, sq2" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrPriceUSD.Caption" Value="Price, USD" />
+			<Item Name="Columns.UsrType.Caption" Value="Type" />
+			<Item Name="Columns.UsrTypeRealty.Caption" Value="Tepe" />
+		</Items>
+	</Group>
+</Resources>
