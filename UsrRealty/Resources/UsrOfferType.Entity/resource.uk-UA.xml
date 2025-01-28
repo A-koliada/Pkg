@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Offer type" />
+			<Item Name="Columns.UsrCommission.Caption" Value="Комісія" />
 		</Items>
 	</Group>
 </Resources>

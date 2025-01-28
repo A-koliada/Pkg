@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Property visit" />
+			<Item Name="Columns.UsrComment.Caption" Value="Comment" />
+			<Item Name="Columns.UsrDateTime.Caption" Value="Date and Time" />
+			<Item Name="Columns.UsrParentRealty.Caption" Value="Perent Realty" />
+			<Item Name="Columns.UsrPotentialCustomer.Caption" Value="Potential Customer" />
+			<Item Name="Columns.UsrResponsible.Caption" Value="Responsible" />
+		</Items>
+	</Group>
+</Resources>

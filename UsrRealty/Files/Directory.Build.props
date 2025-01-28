@@ -3,6 +3,7 @@
 		<Compile Include="$(PkgPath)/UsrRealty/Schemas/UsrOfferType/UsrOfferType.cs" Condition="Exists('$(PkgPath)/UsrRealty/Schemas/UsrOfferType/UsrOfferType.cs')" />
 		<Compile Include="$(PkgPath)/UsrRealty/Schemas/UsrRealty/UsrRealty.cs" Condition="Exists('$(PkgPath)/UsrRealty/Schemas/UsrRealty/UsrRealty.cs')" />
 		<Compile Include="$(PkgPath)/UsrRealty/Schemas/UsrRealtyTypeInRealty/UsrRealtyTypeInRealty.cs" Condition="Exists('$(PkgPath)/UsrRealty/Schemas/UsrRealtyTypeInRealty/UsrRealtyTypeInRealty.cs')" />
+		<Compile Include="$(PkgPath)/UsrRealty/Schemas/UsrRealtyVisit/UsrRealtyVisit.cs" Condition="Exists('$(PkgPath)/UsrRealty/Schemas/UsrRealtyVisit/UsrRealtyVisit.cs')" />
 		<Compile Include="$(PkgPath)/UsrRealty/Schemas/UsrTypeRealty/UsrTypeRealty.cs" Condition="Exists('$(PkgPath)/UsrRealty/Schemas/UsrTypeRealty/UsrTypeRealty.cs')" />
 	</ItemGroup>
 </Project>

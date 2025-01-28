@@ -3,6 +3,10 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Realty form page" />
+			<Item Name="LocalizableStrings.NumberInput_w3chh7m_label.Value" Value="Комісія" />
+			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Значення не може бути негативним" />
+			<Item Name="LocalizableStrings.PriceOver.Value" Value="Обов'язкове, ціна більш за 7000" />
+			<Item Name="LocalizableStrings.UsrCommissionOfferType_label.Value" Value="Комісія USD" />
 		</Items>
 	</Group>
 </Resources>

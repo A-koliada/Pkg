@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Відвідування нерухомості" />
+			<Item Name="Columns.UsrComment.Caption" Value="Коментар" />
+			<Item Name="Columns.UsrDateTime.Caption" Value="Дата та час" />
+			<Item Name="Columns.UsrParentRealty.Caption" Value="Батьківська нерухомість" />
+			<Item Name="Columns.UsrPotentialCustomer.Caption" Value="Потенційний покумець" />
+			<Item Name="Columns.UsrResponsible.Caption" Value="Відповідальний" />
+		</Items>
+	</Group>
+</Resources>
