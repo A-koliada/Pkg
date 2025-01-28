@@ -5,6 +5,8 @@
 			<Item Name="Caption" Value="Realty form page" />
 			<Item Name="LocalizableStrings.addRecord_8b2fvxx_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_b7y2ozb_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_l6f3dlg_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_ylu04u7_caption.Value" Value="Push me" />
 		</Items>
 	</Group>
 </Resources>

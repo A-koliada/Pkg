@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Тип у нерухомості" />
+			<Item Name="Columns.UsrParentRealty.Caption" Value="Батьківська нерухомість" />
+			<Item Name="Columns.UsrRealtyType.Caption" Value="Тип" />
+			<Item Name="EventsProcessSchema.Caption" Value="Базовий об'єкт" />
+		</Items>
+	</Group>
+</Resources>

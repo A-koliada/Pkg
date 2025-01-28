@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2a11610f-76dc-47af-9d3b-b16db5b43393",
+    "Name": "UsrRealtyTypeInRealty",
+    "ModifiedOnUtc": "\/Date(1737475559000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Type In Realty",
+    "DependsOn": []
+  }
+}
