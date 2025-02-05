@@ -2,8 +2,6 @@
 <Resources Culture="tr-TR">
 	<Group Type="String">
 		<Items>
-			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.Caption" Value="Nesne" />
-			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.Caption" Value="Object schema" />
 			<Item Name="Caption" Value="BP_Generate visits" />
 		</Items>
 	</Group>

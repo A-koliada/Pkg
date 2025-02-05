@@ -2,8 +2,6 @@
 <Resources Culture="ja-JP">
 	<Group Type="String">
 		<Items>
-			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.Caption" Value="オブジェクト" />
-			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.Caption" Value="オブジェクトスキーマ" />
 			<Item Name="Caption" Value="BP_Generate visits" />
 		</Items>
 	</Group>

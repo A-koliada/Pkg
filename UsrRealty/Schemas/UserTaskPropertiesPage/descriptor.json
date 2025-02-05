@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "8774b0d3-7fc0-4498-ba4f-8af3c1f0a5c0",
+    "Name": "UserTaskPropertiesPage",
+    "ModifiedOnUtc": "\/Date(1738665845000)\/",
+    "Parent": {
+      "UId": "1191e2ac-2291-4ed3-bc9e-93ca87119f6c",
+      "Name": "UserTaskPropertiesPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Open popup NEM process"
+  }
+}

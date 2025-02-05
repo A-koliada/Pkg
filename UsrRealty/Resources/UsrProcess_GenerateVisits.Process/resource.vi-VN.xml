@@ -2,8 +2,6 @@
 <Resources Culture="vi-VN">
 	<Group Type="String">
 		<Items>
-			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.Caption" Value="Đối tượng" />
-			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.Caption" Value="Giản đồ đối tượng" />
 			<Item Name="Caption" Value="BP_Generate visits" />
 		</Items>
 	</Group>

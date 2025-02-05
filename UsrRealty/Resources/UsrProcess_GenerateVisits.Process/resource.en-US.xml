@@ -15,6 +15,11 @@
 			<Item Name="BaseElements.FormulaTask1.Caption" Value="First visit date" />
 			<Item Name="BaseElements.FormulaTask2.Caption" Value="Counter +1" />
 			<Item Name="BaseElements.FormulaTask3.Caption" Value="Date visit + 1 day" />
+			<Item Name="BaseElements.GlbOpenPopupWindow1.Parameters.GlbPopupWindowText.Caption" Value="Popup window text" />
+			<Item Name="BaseElements.GlbOpenPopupWindow1.Parameters.GlbPopupWindowText.DisplayValue" Value="Process is done" />
+			<Item Name="BaseElements.GlbOpenPopupWindow1.Parameters.GlbPopupWindowText.Value" Value="Process is done" />
+			<Item Name="BaseElements.GlbOpenPopupWindow1.Parameters.GlbUserToWhomShowWindow.Caption" Value="To whom should the window be shown?" />
+			<Item Name="BaseElements.GlbOpenPopupWindow1.Parameters.GlbUserToWhomShowWindow.DisplayValue" Value="[#System variable.Current user contact#]" />
 			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Caption" Value="Connect process to Realty" />
 			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.Caption" Value="Object" />
 			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.DisplayValue" Value="[#idRealty#]" />

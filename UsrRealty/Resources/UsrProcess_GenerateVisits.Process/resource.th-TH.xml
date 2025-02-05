@@ -2,8 +2,6 @@
 <Resources Culture="th-TH">
 	<Group Type="String">
 		<Items>
-			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.Caption" Value="ออบเจ็กต์" />
-			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.Caption" Value="โครงสร้างข้อมูลออบเจ็กต์" />
 			<Item Name="Caption" Value="BP_Generate visits" />
 		</Items>
 	</Group>

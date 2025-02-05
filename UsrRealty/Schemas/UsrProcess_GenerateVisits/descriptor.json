@@ -2,9 +2,8 @@
   "Descriptor": {
     "UId": "629541d0-81ec-4520-80ad-5182db249ec7",
     "Name": "UsrProcess_GenerateVisits",
-    "ModifiedOnUtc": "\/Date(1738063322000)\/",
+    "ModifiedOnUtc": "\/Date(1738234727000)\/",
     "ManagerName": "ProcessSchemaManager",
-    "Caption": "BP_Generate visits",
-    "DependsOn": []
+    "Caption": "BP_Generate visits"
   }
 }

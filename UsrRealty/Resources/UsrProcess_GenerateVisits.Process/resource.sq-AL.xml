@@ -2,8 +2,6 @@
 <Resources Culture="sq-AL">
 	<Group Type="String">
 		<Items>
-			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.Caption" Value="Objekti" />
-			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.Caption" Value="Skema e objektit" />
 			<Item Name="Caption" Value="BP_Generate visits" />
 		</Items>
 	</Group>
